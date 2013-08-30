@@ -1,0 +1,11 @@
+log/
+
+*.pyc
+
+*.swp
+env
+env3
+data
+
+*.egg-info
+build
