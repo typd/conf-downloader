@@ -2,11 +2,11 @@
 import os
 import traceback
 import argparse
-from subprocess import PIPE, Popen, call
+#from subprocess import PIPE, Popen, call
 from xml.dom import minidom
 
 import requests
-import youtube_dl
+#import youtube_dl
 from basicplib.util.logger import create_default_logger 
 from basicplib.util.fileutil import convert_to_valid_path
 
