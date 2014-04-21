@@ -1,11 +1,13 @@
+py3/
+env/
+env3/
+build/
+
 log/
-
-*.pyc
-
-*.swp
-env
-env3
 data
 
+.DS_Store
 *.egg-info
-build
+*.pyc
+*.swp
+

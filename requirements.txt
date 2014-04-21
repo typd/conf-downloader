@@ -1,5 +1,5 @@
 -e git+http://github.com/typd/basicplib.git@bc2fe5b95204ed0e26039c5dd53eb6641811fe86#egg=basicplib-dev
-distribute==0.6.34
+#distribute==0.6.34
 logutils==0.3.3
-requests==1.2.3
+requests==2.2.1
 youtube-dl==2013.08.29
